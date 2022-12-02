@@ -1,25 +1,41 @@
-## Your Name
+# Marta Bianchini  
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After a career as a clinician for the NHS, a year ago, as a personal project, I started to learn Software Development basics (both theoretical and practical) and I trained myself with different kinds of exercises to grow and improve my Software Development skills.
+I am now enrolled at Makers Academy, studying to become a fully fledged Software Developer. I am very passionate about learning new skills and continuously improving myself. 
 
-## Projects
+<!-- ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              | -->
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Central London Community Healthcare NHS Trust** (Jan. 2022 to Nov. 2022)  
+_Specialist Orthoptist_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Vision Screening Co-ordinator
+- Orthoptic assessment for paediatric patients.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Central London Community Healthcare NHS Trust** (Oct. 2020 to Dec. 2021)  
+_Orthoptist_
 
-- Any experience relevent to software development
+- Orthoptic assessment for paediatric patients.
+
+**Royal Surrey NHS Foundation Trust** (Nov. 2017 to Sep.2020)  
+_Orthoptist_
+
+- Orthoptic assessment for paediatric and adult patients.
+- Intravitreal injections
+- Extended roles
+
+<!-- TO REMOVE? -->
+**Freelancer** (Apr. 2015 to Oct. 2017)  
+_Orthoptist_
+
+- Orthoptic assessment for paediatric and adult patients.
+
 
 ## Skills
 
@@ -53,24 +69,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+#### **Makers Academy (Nov. 2022 to Mar.2023)**
+- 
+<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine -->
 
-#### Your University / College (start_date to end_date)
+#### **University of Florence (Oct. 2011 to Apr. 2015)**
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- **BSc in Orthoptic and Ophtalmological Assistance**
 
-#### Any other qualifications
+    Grade: 110/110
 
-That in some arguable way make you a better software developer or well-rounded person
+    Thesis: Foveal ipoplasia, a tomographic and functional study
+
+<!-- #### Any other qualifications
+
+That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Hobbies
 
