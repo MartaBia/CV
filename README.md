@@ -1,4 +1,4 @@
-# Marta Bianchini  
+# Marta Bianchini
 
 After a career as a clinician for the NHS, a year ago, as a personal project, I started to learn Software Development basics (both theoretical and practical) and I trained myself with different kinds of exercises to grow and improve my Software Development skills.
 I am now enrolled at Makers Academy, studying to become a fully fledged Software Developer. I am very passionate about learning new skills and continuously improving myself. 
@@ -11,6 +11,8 @@ I am now enrolled at Makers Academy, studying to become a fully fledged Software
 | **Something else worked on** | A webapp to do y. | Ruby              | -->
 
 ## Work Experience
+
+---
 
 **Central London Community Healthcare NHS Trust** (Jan. 2022 to Nov. 2022)  
 _Specialist Orthoptist_
@@ -39,7 +41,20 @@ _Orthoptist_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+---
+
+### Communication
+
+Thanks to the years spent in my clinical career I got the opportunity to develop and enhance my communications skills.
+Having the chance to talk daily with my patients (adults and kids) and their parents really taught me how to explain problems, elucidate doubts, handle difficult conversation and, last but not least, how to best engage and relate with people from all the age’s range.
+
+<!-- ### Curiousity
+
+I am a very curious and inquisitive person. I love to learn and discover new things, I like adventure and I am always keen on trying new things and experiences.  -->
+
+
+
+<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
@@ -49,10 +64,10 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What did you do? (action)
 
--What was the result?
+-What was the result? -->
 
 
-#### This Skill
+<!-- #### This Skill
 
 - Experience
 - Achievements
@@ -65,12 +80,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
+---
+
 #### **Makers Academy (Nov. 2022 to Mar.2023)**
-- 
+Pre-course:
+- [clmystery](https://github.com/MartaBia/clmystery)
+- Test driven development and pair programming basics on [fizzbuzz](https://github.com/MartaBia/student-directory)
+- Managing the list of students enrolled at [Villains Academy](https://github.com/MartaBia/student-directory).
+
+
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -93,4 +115,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+---
+
+In my free time I love reading, cooking (and eating), travelling, and walking
