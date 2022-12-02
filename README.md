@@ -4,8 +4,6 @@ After a career as a clinician for the NHS, a year ago, as a personal project, I 
 
 ## Projects
 
----
-
 Over the past year I have learned the basics of Software Development (both theoretical and practical).
 I focused on Python and Ruby.
 
@@ -17,8 +15,6 @@ You can check [here](https://github.com/MartaBia/code-exercises) my challenges a
 | **Something else worked on** | A webapp to do y. | Ruby              | -->
 
 ## Work Experience
-
----
 
 **Central London Community Healthcare NHS Trust** (Jan. 2022 to Nov. 2022)  
 _Specialist Orthoptist_
@@ -46,8 +42,6 @@ _Orthoptist_
 
 
 ## Skills
-
----
 
 ### Communication
 
@@ -91,8 +85,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
----
-
 #### **Makers Academy (Nov. 2022 to Mar.2023)**
 Pre-course:
 - [clmystery](https://github.com/MartaBia/clmystery)
@@ -121,7 +113,5 @@ Pre-course:
 That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Hobbies
-
----
 
 In my free time I love reading, cooking (and eating), travelling, and walking
