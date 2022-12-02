@@ -1,11 +1,17 @@
 # Marta Bianchini
 
-After a career as a clinician for the NHS, a year ago, as a personal project, I started to learn Software Development basics (both theoretical and practical) and I trained myself with different kinds of exercises to grow and improve my Software Development skills.
-I am now enrolled at Makers Academy, studying to become a fully fledged Software Developer. I am very passionate about learning new skills and continuously improving myself. 
+After a career as a clinician for the NHS, a year ago, as a personal project, I started to learn Software Development basics and I trained myself with different kinds of exercises to grow and improve my Software Development skills. I am now enrolled at Makers Academy, studying to become a fully fledged Software Developer. I am very passionate about learning new skills and continuously improving myself. 
 
-<!-- ## Projects
+## Projects
 
-| Name                         | Description       | Tech/tools        |
+---
+
+Over the past year I have learned the basics of Software Development (both theoretical and practical).
+I focused on Python and Ruby.
+
+You can check [here](https://github.com/MartaBia/code-exercises) my challenges and progress.
+
+<!-- | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              | -->
@@ -48,9 +54,9 @@ _Orthoptist_
 Thanks to the years spent in my clinical career I got the opportunity to develop and enhance my communications skills.
 Having the chance to talk daily with my patients (adults and kids) and their parents really taught me how to explain problems, elucidate doubts, handle difficult conversation and, last but not least, how to best engage and relate with people from all the age’s range.
 
-<!-- ### Curiousity
+### Curiousity
 
-I am a very curious and inquisitive person. I love to learn and discover new things, I like adventure and I am always keen on trying new things and experiences.  -->
+I am a very curious and inquisitive person. I love to learn and discover new things, I like adventure and I am always keen on trying new things and experiences. 
 
 
 
