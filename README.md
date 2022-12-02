@@ -54,6 +54,7 @@ _Orthoptist_
 Thanks to the years spent in my clinical career I got the opportunity to develop and enhance my communications skills.
 Having the chance to talk daily with my patients (adults and kids) and their parents really taught me how to explain problems, elucidate doubts, handle difficult conversation and, last but not least, how to best engage and relate with people from all the age’s range.
 
+<!-- TODO: refine curiosity, complete Skills -->
 ### Curiousity
 
 I am a very curious and inquisitive person. I love to learn and discover new things, I like adventure and I am always keen on trying new things and experiences. 
