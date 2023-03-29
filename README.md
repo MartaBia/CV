@@ -13,7 +13,7 @@ As my passion for coding is evolving into my new career, I take pride in continu
 | [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone | Developed with MERN stack. Tested with Jest and Cypress. |
 |[**News Challenge**](https://github.com/MartaBia/news-summary-challenge)| A web app that shows the latest news using the Guardian API | Developed with JavaScript, tested with Jest |
 |[**CloudBnB**](https://github.com/MartaBia/cloudbnb)| AirBnB clone | Developed with Ruby. Tested with RSpec |
-|[**Shop Manager Challenge**](https://github.com/MartaBia/shop-manager-challenge)|| Developed with Ruby. Tested with RSpec |
+|[**Shop Manager Challenge**](https://github.com/MartaBia/shop-manager-challenge)| A terminal program that allows the user to manage a shop database containing some items and orders | Developed with Ruby. Tested with RSpec |
 
 ## Work Experience
 
