@@ -6,8 +6,8 @@ As my passion for coding is evolving into my new career, I take pride in continu
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
+| Name                         | Description       | Technologies        |
+| ---------------------------- | ----------------- | --------------------|
 | [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
 | [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Developed with Ruby, tested with RSpec. |
 | [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone | Developed with MERN stack. Tested with Jest and Cypress. |
@@ -17,7 +17,7 @@ As my passion for coding is evolving into my new career, I take pride in continu
 
 ## Work Experience
 
-**Central London Community Healthcare NHS Trust**
+**Central London Community Healthcare NHS Trust**  
 _Specialist Orthoptist_ - Oct. 2020 to Nov. 2022
 
 - Vision Screening Co-ordinator
@@ -80,9 +80,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-### **Makers Academy (Nov. 2022 to Mar.2023)**
+### **Makers Academy**
 Nov. 2022 to Mar. 2023
-
 - **Software Engineering Bootcamp**
     - Strong focus on Test-Driven-Development process, Object Oriented Programming, Data Structure and SOLID principles
     - Engaging in a diverse culture of pair programming
@@ -103,11 +102,8 @@ Nov. 2022 to Mar. 2023
 
 ### **University of Florence**
 Oct. 2011 to Apr. 2015
-
 - **BSc in Orthoptic and Ophtalmological Assistance**
-
     - Grade: 110/110
-
     - Thesis: Foveal hypoplasia, a tomographic and functional study
 
 <!-- #### Any other qualifications
