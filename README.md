@@ -1,10 +1,10 @@
-# Marta Bianchini
+# Marta Bianchini 👩🏻‍💻
 
 Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as a clinician for the NHS, I decided to give my career a twist and become a software engineer. I was enrolled at Makers Academy, a highly selective and intensive software engineering bootcamp.
 Through this experience, I gained a strong foundation in writing clear, adaptable, and testable code.
 As my passion for coding is evolving into my new career, I take pride in continuously improving myself as a developer and learning new skills.
 
-## Projects
+## Projects 💻
 
 | Name                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | --------------------|
@@ -15,7 +15,7 @@ As my passion for coding is evolving into my new career, I take pride in continu
 |[**CloudBnB**](https://github.com/MartaBia/cloudbnb)| AirBnB clone | Developed with Ruby. Tested with RSpec |
 |[**Shop Manager Challenge**](https://github.com/MartaBia/shop-manager-challenge)| A terminal program that allows the user to manage a shop database containing some items and orders | Developed with Ruby. Tested with RSpec |
 
-## Work Experience
+## Work Experience 💼
 
 **Central London Community Healthcare NHS Trust**  
 _Specialist Orthoptist_ - Oct. 2020 to Nov. 2022
@@ -78,7 +78,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-## Education
+## Education 📚
 
 ### **Makers Academy**
 Nov. 2022 to Mar. 2023
@@ -110,6 +110,8 @@ Oct. 2011 to Apr. 2015
 
 That in some arguable way make you a better software developer or well-rounded person -->
 
-## Hobbies
+## Hobbies 🎢
 
-In my free time I love reading, cooking (and eating), travelling, and walking
+- 📖 Reading
+- 👩🏻‍🍳 Cooking (and eating) 
+- 🛫 Travelling
