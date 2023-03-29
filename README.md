@@ -1,42 +1,37 @@
 # Marta Bianchini
 
-After a career as a clinician for the NHS, a year ago, as a personal project, I started to learn Software Development basics and I trained myself with different kinds of exercises to grow and improve my Software Development skills. I am now enrolled at Makers Academy, studying to become a fully fledged Software Developer. I am very passionate about learning new skills and continuously improving myself. 
+Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as a clinician for the NHS, I decided to give my career a twist and become a software engineer. I was enrolled at Makers Academy, a highly selective and intensive software engineering bootcamp.
+Through this experience, I gained a strong foundation in writing clear, adaptable, and testable code.
+As my passion for coding is evolving into my new career, I take pride in continuously improving myself as a developer and learning new skills.
 
 ## Projects
 
-Over the past year I have learned the basics of Software Development (both theoretical and practical).
-I focused on Python and Ruby.
-
-You can check [here](https://github.com/MartaBia/code-exercises) my challenges and progress.
-
-<!-- | Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              | -->
+| [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
+| [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Developed with Ruby, tested with RSpec. |
+| [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone | Developed with MERN stack. Tested with Jest and Cypress. |
+|[**News Challenge**](https://github.com/MartaBia/news-summary-challenge)| A web app that shows the latest news using the Guardian API | Developed with JavaScript, tested with Jest |
+|[**CloudBnB**](https://github.com/MartaBia/cloudbnb)| AirBnB clone | Developed with Ruby. Tested with RSpec |
+|[**Shop Manager Challenge**](https://github.com/MartaBia/shop-manager-challenge)|| Developed with Ruby. Tested with RSpec |
 
 ## Work Experience
 
-**Central London Community Healthcare NHS Trust** (Jan. 2022 to Nov. 2022)  
-_Specialist Orthoptist_
+**Central London Community Healthcare NHS Trust**
+_Specialist Orthoptist_ - Oct. 2020 to Nov. 2022
 
 - Vision Screening Co-ordinator
 - Orthoptic assessment for paediatric patients.
 
-**Central London Community Healthcare NHS Trust** (Oct. 2020 to Dec. 2021)  
-_Orthoptist_
-
-- Orthoptic assessment for paediatric patients.
-
-**Royal Surrey NHS Foundation Trust** (Nov. 2017 to Sep.2020)  
-_Orthoptist_
+**Royal Surrey NHS Foundation Trust**   
+_Orthoptist_ - Nov. 2017 to Sep.2020
 
 - Orthoptic assessment for paediatric and adult patients.
 - Intravitreal injections
 - Extended roles
 
-<!-- TO REMOVE? -->
-**Freelancer** (Apr. 2015 to Oct. 2017)  
-_Orthoptist_
+**Freelancer**  
+_Orthoptist_ - Apr. 2015 to Oct. 2017
 
 - Orthoptic assessment for paediatric and adult patients.
 
@@ -85,11 +80,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### **Makers Academy (Nov. 2022 to Mar.2023)**
-Pre-course:
-- [clmystery](https://github.com/MartaBia/clmystery)
+### **Makers Academy (Nov. 2022 to Mar.2023)**
+Nov. 2022 to Mar. 2023
+
+- **Software Engineering Bootcamp**
+    - Strong focus on Test-Driven-Development process, Object Oriented Programming, Data Structure and SOLID principles
+    - Engaging in a diverse culture of pair programming
+    - Experiencing industry development practice: Team collaboration, Agile development, MVP
+
+<!-- - [clmystery](https://github.com/MartaBia/clmystery)
 - Test driven development and pair programming basics on [fizzbuzz](https://github.com/MartaBia/student-directory)
-- Managing the list of students enrolled at [Villains Academy](https://github.com/MartaBia/student-directory).
+- Managing the list of students enrolled at [Villains Academy](https://github.com/MartaBia/student-directory). -->
 
 
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -100,13 +101,14 @@ Pre-course:
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
 
-#### **University of Florence (Oct. 2011 to Apr. 2015)**
+### **University of Florence**
+Oct. 2011 to Apr. 2015
 
 - **BSc in Orthoptic and Ophtalmological Assistance**
 
-    Grade: 110/110
+    - Grade: 110/110
 
-    Thesis: Foveal ipoplasia, a tomographic and functional study
+    - Thesis: Foveal hypoplasia, a tomographic and functional study
 
 <!-- #### Any other qualifications
 
