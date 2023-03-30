@@ -8,7 +8,7 @@ As my passion for coding is evolving into my new career, I take pride in continu
 
 | Name                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | --------------------|
-| [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
+| [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London's landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
 | [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Developed with Ruby, tested with RSpec. |
 | [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone | Developed with MERN stack. Tested with Jest and Cypress. |
 |[**News Challenge**](https://github.com/MartaBia/news-summary-challenge)| A web app that shows the latest news using the Guardian API | Developed with JavaScript, tested with Jest |
