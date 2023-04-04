@@ -1,8 +1,11 @@
 # Marta Bianchini 👩🏻‍💻
 
+
 Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as a clinician for the NHS, I decided to give my career a twist and become a software engineer. I was enrolled at Makers Academy, a highly selective and intensive software engineering bootcamp.
 Through this experience, I gained a strong foundation in writing clear, adaptable, and testable code.
 As my passion for coding is evolving into my new career, I take pride in continuously improving myself as a developer and learning new skills.
+
+[Projects](#projects---) | [Work Experience](#work-experience---) | [Technical Skills](#technical-skills----) | [Education](#education---) | [Hobbies](#hobbies---) <!-- | [Skills](#skills) | -->
 
 ## Projects 💻
 
@@ -35,8 +38,15 @@ _Orthoptist_ - Apr. 2015 to Oct. 2017
 
 - Orthoptic assessment for paediatric and adult patients.
 
+## Technical Skills 🛠️
 
-## Skills
+**Programming Languages** | _Ruby, Python, JavaScript, SQL_  
+**Frameworks & Libraries** |  _React, React Native, Express, Jest, Sinatra_  
+**Databases** | _PostgreSQL, Active Records, MongoDB_  
+**DevOps** | _Test-Driven Development, Pair Programming, Agile Methodology_
+
+
+<!-- ## Skills
 
 ### Communication
 
@@ -44,39 +54,9 @@ Thanks to the years spent in my clinical career I got the opportunity to develop
 Having the chance to talk daily with my patients (adults and kids) and their parents really taught me how to explain problems, elucidate doubts, handle difficult conversation and, last but not least, how to best engage and relate with people from all the age’s range.
 
 <!-- TODO: refine curiosity, complete Skills -->
-### Curiosity
+<!-- ### Curiosity
 
-I am a very curious and inquisitive person. I love to learn and discover new things, I like adventure and I am always keen on trying new things and experiences. 
-
-
-
-<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result? -->
-
-
-<!-- #### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
+I am a very curious and inquisitive person. I love to learn and discover new things, I like adventure and I am always keen on trying new things and experiences.  -->
 
 ## Education 📚
 
@@ -90,15 +70,6 @@ Nov. 2022 to Mar. 2023
 <!-- - [clmystery](https://github.com/MartaBia/clmystery)
 - Test driven development and pair programming basics on [fizzbuzz](https://github.com/MartaBia/student-directory)
 - Managing the list of students enrolled at [Villains Academy](https://github.com/MartaBia/student-directory). -->
-
-
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
 
 ### **University of Florence**
 Oct. 2011 to Apr. 2015
