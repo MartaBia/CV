@@ -51,7 +51,7 @@ _Orthoptist_ - Apr. 2015 to Oct. 2017
 ### Communication
 
 Thanks to the years spent in my clinical career I got the opportunity to develop and enhance my communications skills.
-Having the chance to talk daily with my patients (adults and kids) and their parents really taught me how to explain problems, elucidate doubts, handle difficult conversation and, last but not least, how to best engage and relate with people from all the age’s range.
+Having the chance to talk daily with my patients (adults and kids) and their parents really taught me how to explain problems, elucidate doubts, handle difficult conversation and, last but not least, how to best engage and relate with people from all the age’s range.  -->
 
 <!-- TODO: refine curiosity, complete Skills -->
 <!-- ### Curiosity
@@ -76,10 +76,6 @@ Oct. 2011 to Apr. 2015
 - **BSc in Orthoptic and Ophtalmological Assistance**
     - Grade: 110/110
     - Thesis: Foveal hypoplasia, a tomographic and functional study
-
-<!-- #### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Hobbies 🎢
 
