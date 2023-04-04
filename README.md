@@ -5,7 +5,7 @@ Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as 
 Through this experience, I gained a strong foundation in writing clear, adaptable, and testable code.
 As my passion for coding is evolving into my new career, I take pride in continuously improving myself as a developer and learning new skills.
 
-[Projects](https://github.com/MartaBia/CV/blob/master/README.md#projects-) | [Work Experience](https://github.com/MartaBia/CV/blob/master/README.md#work-experience-) | [Technical Skills](https://github.com/MartaBia/CV/blob/master/README.md#technical-skills-%EF%B8%8F) | [Education](https://github.com/MartaBia/CV/blob/master/README.md#education-) | [Hobbies](#hobbies---) <!-- | [Skills](#skills) | -->
+[Projects](https://github.com/MartaBia/CV/blob/master/README.md#projects-) | [Work Experience](https://github.com/MartaBia/CV/blob/master/README.md#work-experience-) | [Technical Skills](https://github.com/MartaBia/CV/blob/master/README.md#technical-skills-%EF%B8%8F) | [Education](https://github.com/MartaBia/CV/blob/master/README.md#education-) | [Hobbies](https://github.com/MartaBia/CV/blob/master/README.md#hobbies-) <!-- | [Skills](#skills) | -->
 
 ## Projects 💻
 
