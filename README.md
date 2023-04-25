@@ -1,7 +1,7 @@
 # Marta Bianchini 👩🏻‍💻
 
 
-Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as a clinician for the NHS, I decided to give my career a twist and become a software engineer. I was enrolled at Makers Academy, a highly selective and intensive software engineering bootcamp.
+Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as a clinician for the NHS, I decided to give my career a twist and become a Software Engineer. I was enrolled at Makers Academy, a highly selective and intensive software engineering bootcamp.
 Through this experience, I gained a strong foundation in writing clear, adaptable, and testable code.
 As my passion for coding is evolving into my new career, I take pride in continuously improving myself as a developer and learning new skills.
 
