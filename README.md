@@ -1,11 +1,16 @@
 # Marta Bianchini 👩🏻‍💻
 
 
-Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as a clinician for the NHS, I decided to give my career a twist and become a Software Engineer. I was enrolled at Makers Academy, a highly selective and intensive software engineering bootcamp.
+Hello, I’m Marta, a career‑changer Software Engineer! After a 5-year job as a clinician for the NHS, I decided to give my career a twist and become a software engineer. I was enrolled at Makers Academy, a highly selective and intensive software engineering bootcamp.
 Through this experience, I gained a strong foundation in writing clear, adaptable, and testable code.
 As my passion for coding is evolving into my new career, I take pride in continuously improving myself as a developer and learning new skills.
 
-[Projects](https://github.com/MartaBia/CV/blob/master/README.md#projects-) | [Work Experience](https://github.com/MartaBia/CV/blob/master/README.md#work-experience-) | [Technical Skills](https://github.com/MartaBia/CV/blob/master/README.md#technical-skills-%EF%B8%8F) | [Education](https://github.com/MartaBia/CV/blob/master/README.md#education-) | [Hobbies](https://github.com/MartaBia/CV/blob/master/README.md#hobbies-) <!-- | [Skills](#skills) | -->
+[Projects](https://github.com/MartaBia/CV/blob/master/README.md#projects-) | 
+[Work Experience](https://github.com/MartaBia/CV/blob/master/README.md#work-experience-) | 
+[Technical Skills](https://github.com/MartaBia/CV/blob/master/README.md#technical-skills-%EF%B8%8F) | 
+[Soft Skills](https://github.com/MartaBia/CV/blob/master/README.md#soft-skills-) |
+[Education](https://github.com/MartaBia/CV/blob/master/README.md#education-) | 
+[Hobbies](https://github.com/MartaBia/CV/blob/master/README.md#hobbies-)
 
 ## Projects 💻
 
@@ -44,33 +49,30 @@ _Orthoptist_ - Apr. 2015 to Oct. 2017
 **Programming Languages** | _Ruby, Python, JavaScript, SQL_  
 **Frameworks & Libraries** |  _React, React Native, Express, Jest, Sinatra_  
 **Databases** | _PostgreSQL, Active Records, MongoDB_  
-**DevOps** | _Test-Driven Development, Pair Programming, Agile Methodology_
+**Front End** | _HTML, CSS_   
+**Testing** | RSpec, Jest, Cypress   
+**DevOps** | _TTD, Pair Programming, Agile Methodology_
 
 
-<!-- ## Skills
+ ## Soft Skills 👷🏻‍♀️
 
-### Communication
+### Communicative
+My previous career as a clinician allowed me to develop and enhance my communication skills. Interacting with my patients, both adults and children, as well as their parents and relatives on a daily basis, enabled me to acquire the skillset necessary for conveying complex concepts in a comprehensible manner, clarifying doubts, managing sensitive discussions, and, perhaps most importantly, building rapport and connecting with individuals of all ages.
 
-Thanks to the years spent in my clinical career I got the opportunity to develop and enhance my communications skills.
-Having the chance to talk daily with my patients (adults and kids) and their parents really taught me how to explain problems, elucidate doubts, handle difficult conversation and, last but not least, how to best engage and relate with people from all the age’s range.  -->
+### Curious
+I am driven by a passionate will to learn, try and discover new things. From my job to my next travel destination, I am always looking for something new to do and discover, I love adventure and I am always keen on trying new things and experiences.
 
-<!-- TODO: refine curiosity, complete Skills -->
-<!-- ### Curiosity
-
-I am a very curious and inquisitive person. I love to learn and discover new things, I like adventure and I am always keen on trying new things and experiences.  -->
+### Adaptable
+I consider myself to be a very flexible person and over the years, during my clinical career and my bootcamp experience I always proved to be able to adapt to the various situations around me and I always manage to overcome any problem. 
 
 ## Education 📚
 
 ### **Makers Academy**
 Nov. 2022 to Mar. 2023
 - **Software Engineering Bootcamp**
-    - Strong focus on Test-Driven-Development process, Object Oriented Programming, Data Structure and SOLID principles
-    - Engaging in a diverse culture of pair programming
-    - Experiencing industry development practice: Team collaboration, Agile development, MVP
-
-<!-- - [clmystery](https://github.com/MartaBia/clmystery)
-- Test driven development and pair programming basics on [fizzbuzz](https://github.com/MartaBia/student-directory)
-- Managing the list of students enrolled at [Villains Academy](https://github.com/MartaBia/student-directory). -->
+    - Strong focus on TDD process, OOP, Data Structure and SOLID principles.
+    - Engaged in a diverse culture of pair programming.
+    - Experienced industry development practice: successfully took part of team projects using Agile methodology and development, MVP.
 
 ### **University of Florence**
 Oct. 2011 to Apr. 2015
@@ -80,6 +82,7 @@ Oct. 2011 to Apr. 2015
 
 ## Hobbies 🎢
 
-- 📖 Reading
-- 👩🏻‍🍳 Cooking (and eating) 
-- 🛫 Travelling
+- 📖 Reading - I love reading everything that is possible to read, from graphic novels to self-improvement books
+- 👩🏻‍🍳 Cooking - I am excellent at preparing Italian food, and my favourites to do (and to eat) are risotto, lasagne, pizza and tiramisù
+- 🛫 Travelling - I love to travel and to me is an excellent way to relax, discover new places and try new experiences
+- 🥾 Hiking - I love being outdoors and hiking is an excellent way to spend time outside and clear my mind
