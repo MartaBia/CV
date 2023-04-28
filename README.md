@@ -8,7 +8,7 @@ As my passion for coding is evolving into my new career, I take pride in continu
 [Projects](https://github.com/MartaBia/CV/blob/master/README.md#projects-) | 
 [Work Experience](https://github.com/MartaBia/CV/blob/master/README.md#work-experience-) | 
 [Technical Skills](https://github.com/MartaBia/CV/blob/master/README.md#technical-skills-%EF%B8%8F) | 
-[Soft Skills](https://github.com/MartaBia/CV/blob/master/README.md#soft-skills-) |
+[Soft Skills](https://github.com/MartaBia/CV/blob/master/README.md#soft-skills-%EF%B8%8F) |
 [Education](https://github.com/MartaBia/CV/blob/master/README.md#education-) | 
 [Hobbies](https://github.com/MartaBia/CV/blob/master/README.md#hobbies-)
 
