@@ -29,20 +29,21 @@ As my passion for coding is evolving into my new career, I take pride in continu
 **Central London Community Healthcare NHS Trust**  
 _Specialist Orthoptist_ - Oct. 2020 to Nov. 2022
 
-- Vision Screening Co-ordinator
-- Orthoptic assessment for paediatric patients.
+- Conducted thorough orthoptic assessments and provided specialized care for paediatric patients,  ensuring accurate diagnoses and effective treatment plans.
+- Successfully coordinated school vision screenings and conducted training for Health Care Assistants.
 
 **Royal Surrey NHS Foundation Trust**   
 _Orthoptist_ - Nov. 2017 to Sep.2020
 
-- Orthoptic assessment for paediatric and adult patients.
-- Intravitreal injections
-- Extended roles
+- Conducted thorough orthoptic assessments for paediatric and adult patients.
+- Provided specialised eye care for patients with Stroke and Neurological diseases.
+- Administered safe and effective intravitreal injections to treat a range of eye conditions,  improving vision and quality of life for patients.
+- Provided guidance and support to Orthoptist Students as a mentor.
 
 **Freelancer**  
 _Orthoptist_ - Apr. 2015 to Oct. 2017
 
-- Orthoptic assessment for paediatric and adult patients.
+- Conducted thorough orthoptic assessments and provided specialized care for paediatric patients,  ensuring accurate diagnoses and effective treatment plans.
 
 ## Technical Skills 🛠️
 
