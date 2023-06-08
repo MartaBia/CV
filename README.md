@@ -27,24 +27,43 @@ As my passion for coding is evolving into my new career, I take pride in continu
 
 ## Work Experience 💼
 
-**Central London Community Healthcare NHS Trust**  
-_Specialist Orthoptist_ - Oct. 2020 to Nov. 2022
+### **Central London Community Healthcare NHS Trust**  
+**_Specialist Orthoptist_** - Oct. 2020 to Nov. 2022
 
-- Conducted thorough orthoptic assessments and provided specialized care for paediatric patients,  ensuring accurate diagnoses and effective treatment plans.
-- Successfully coordinated school vision screenings and conducted training for Health Care Assistants.
+**Job Description:**
+- Conducted thorough orthoptic assessments and provided specialised care for paediatric patients,  ensuring accurate diagnoses and effective treatment plans.
+- Successfully coordinated school vision screenings and conducted training for School Nurses Assistants.
 
-**Royal Surrey NHS Foundation Trust**   
-_Orthoptist_ - Nov. 2017 to Sep.2020
+**Achievements:**
 
+In this job, I continued working as a clinician but I also integrate it with managerial duties.
+My duties included the order of clinical supplies, as well as coordinating vision screenings and training School Nurses Assistants.
+Managing these additional responsibilities has honed my time management skills, as I have had to efficiently organize and prioritize my workload between clinical duties and managerial tasks. This experience has equipped me with the ability to handle multiple responsibilities, meet deadlines, and ensure smooth operations.
+
+### **Royal Surrey NHS Foundation Trust**   
+**_Orthoptist_** - Nov. 2017 to Sep.2020
+
+**Job Description:**
 - Conducted thorough orthoptic assessments for paediatric and adult patients.
 - Provided specialised eye care for patients with Stroke and Neurological diseases.
-- Administered safe and effective intravitreal injections to treat a range of eye conditions,  improving vision and quality of life for patients.
+- Administered safe and effective intravitreal injections to treat a range of eye conditions, improving patients' vision and quality of life.
 - Provided guidance and support to Orthoptist Students as a mentor.
 
-**Freelancer**  
-_Orthoptist_ - Apr. 2015 to Oct. 2017
+**Achievements:**
 
-- Conducted thorough orthoptic assessments and provided specialized care for paediatric patients,  ensuring accurate diagnoses and effective treatment plans.
+This job enhanced my clinical and soft skills even further: dealing with a diverse range of individuals honed my ability to adapt my communication style to suit different audiences.
+My work in the Stroke Ward and Injection Clinic put me daily in close contact with different colleagues, and enabled me to develop effective interaction skills with each of them.
+As a tutor for University Orthoptist Students, I had the opportunity to not only develop my own communication skills but also share my knowledge and expertise with others. Teaching students allowed me to refine my ability to explain complex concepts and help them improve their own communication skills. Additionally, I guided them in time management techniques and encouraged the adoption of best practices in their learning process.
+
+### **Freelancer**  
+**_Orthoptist_** - Apr. 2015 to Oct. 2017
+
+**Job Description:**
+- Conducted thorough orthoptic assessments and provided specialized care for paediatric patients, ensuring accurate diagnoses and effective treatment plans.
+
+**Achievements:**
+
+This first job of mine put the basics to build both my clinical and soft skills: I improved my communication working with my first clients, making me able to deal with a variety of different audiences. It also provided me with the opportunity to independently manage my clinics, not only focusing on the clinical aspects of the job but also taking charge of the organisational responsibilities.
 
 ## Technical Skills 🛠️
 
