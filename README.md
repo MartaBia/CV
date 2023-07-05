@@ -16,15 +16,16 @@ As my passion for coding is evolving into my new career, I take pride in continu
 
 | Name                         | Description       | Technologies        |
 | ---------------------------- | ----------------- | --------------------|
-| [**Virtual Exhibition**](https://github.com/MartaBia/virtual-exhibition) | A toy exhibition website powered by the V&A API. | Developed with Ruby on Rails|
-| [**HTMA Report Generator**](https://github.com/Pensano-dev/HTMA-report-generator) | A web program developed to support Nutritional Therapy practitioners analysing Hair Tissue Mineral Analysis results. | Developed with MERN stack. Tested with Jest. |
-| [**PDF Reader**](https://github.com/MartaBia/pdf-reader) | A program that takes a pdf file that is passed from the user through the command line and reads it out loud. | Developed with Python|
-| [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks | Developed with MERN stack using React Native. Tested with Jest. Built with Expo|
-| [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Developed with Ruby, tested with RSpec. |
-| [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone | Developed with MERN stack. Tested with Jest and Cypress. |
-|[**News Challenge**](https://github.com/MartaBia/news-summary-challenge)| A web app that shows the latest news using the Guardian API | Developed with JavaScript, tested with Jest |
-|[**CloudBnB**](https://github.com/MartaBia/cloudbnb)| AirBnB clone | Developed with Ruby. Tested with RSpec |
-|[**Shop Manager Challenge**](https://github.com/MartaBia/shop-manager-challenge)| A terminal program that allows the user to manage a shop database containing some items and orders | Developed with Ruby. Tested with RSpec |
+| [**Virtual Exhibition**](https://github.com/MartaBia/virtual-exhibition) | A toy exhibition website powered by the V&A API. | Ruby on Rails, Bootstrap.|
+| [**HTMA Report Generator**](https://github.com/Pensano-dev/HTMA-report-generator) | A web program developed to support Nutritional Therapy practitioners analysing Hair Tissue Mineral Analysis results.| MongoDB, Express, React, Node.js, Jest.|
+| [**Street Safe**](https://github.com/MartaBia/Street_Safe) | A website that highlights dangerous street and spots. Developed during a one-day hackathon. | JavaScript, React.|
+| [**PDF Reader**](https://github.com/MartaBia/pdf-reader) | A program that takes a pdf file passed from the user through the command line and reads it aloud.| Python|
+| [**Solved**](https://github.com/MartaBia/solved-app-final-project) | Live-action treasure hunt mobile app of London landmarks. Developed as a final group project for Makers Academy Bootcamp.| MongoDB, Express, React Native, Node.js Jest, Expo.|
+| [**Bank Tech Test**](https://github.com/MartaBia/bank-tech-test) | A simple bank program that allows the users to do deposits, withdrawals, and see their account statements | Ruby, RSpec. |
+| [**Acebook**](https://github.com/MartaBia/acebook-team-water) | Facebook clone. | MongoDB, Express, React, Node.js, Jest, Cypress. |
+|[**News Challenge**](https://github.com/MartaBia/news-summary-challenge)| A web app that shows the latest news using the Guardian API. | JavaScript, Jest. |
+|[**CloudBnB**](https://github.com/MartaBia/cloudbnb)| AirBnB clone. | Ruby, RSpec. |
+|[**Shop Manager Challenge**](https://github.com/MartaBia/shop-manager-challenge)| A terminal program that allows the user to manage a shop database containing some items and orders. | Ruby, RSpec. |
 
 ## Work Experience 💼
 
@@ -79,13 +80,17 @@ This first job put the basics to build both my clinical and soft skills: I impro
  ## Soft Skills 👷🏻‍♀️
 
 ### Communicative
-My previous career as a clinician allowed me to develop and enhance my communication skills. Interacting with my patients, both adults and children, as well as their parents and relatives daily, enabled me to acquire the skillset necessary for conveying complex concepts in a comprehensible manner, clarifying doubts, managing sensitive discussions, and, perhaps most importantly, building rapport and connecting with individuals of all ages.
-
-### Curious
-I am driven by a passionate will to learn, try and discover new things. From my job to my next travel destination, I am always looking for something new to do and discover, I love adventure and I am always keen on trying new things and experiences.
+Being an experienced communicator, I’m skilled at taking complex topics and simplifying them for different audiences. For instance, while working in a clinical setting, I used my extensive knowledge in the field to translate complex concepts into easily understandable language and relatable examples for both patients and their families.
 
 ### Adaptable
-I consider myself to be a very flexible person and over the years, during my clinical career and my bootcamp experience I always proved to be able to adapt to the various situations around me and I always manage to overcome any problem. 
+I am used to dynamic and rapidly evolving environments: in my previous role, I had to be flexible and respond quickly in case of emergency A&E patients, colleague absence or sudden unforeseen problems, making me adaptable and comfortable with change.
+
+### Responsible
+I am deeply committed to taking full responsibility for my actions. When faced with challenging situations, I embrace them with a steadfast attitude, refusing to shy away or evade the consequences of any mistakes made. Instead, I confront errors head-on, acknowledging them without hesitation and actively working towards rectifying them.
+
+### Curious
+I am driven by a passionate will to learn, try and discover new things. In my job or in my private life, I am always looking for something new to do and discover. I love adventure and I am always keen on trying new things and experiences to broaden my horizons and discover uncharted territories.
+
 
 ## Education 📚
 
